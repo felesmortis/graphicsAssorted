@@ -1,5 +1,5 @@
 [Project]
-FileName=SDLesson19.dev
+FileName=SDLesson20.dev
 Name=SDLesson7
 UnitCount=1
 Type=0
@@ -48,7 +48,7 @@ ProductVersion=
 AutoIncBuildNr=0
 
 [Unit1]
-FileName=SDL19.cpp
+FileName=SDL20.cpp
 CompileCpp=1
 Folder=SDLesson7
 Compile=1
